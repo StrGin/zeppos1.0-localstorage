@@ -9,7 +9,7 @@
 
 你可以通过以下链接下载我们的最新发布版本：
 
-- [下载最新发布版本]([https://github.com/yourusername/yourrepository/releases/latest/download/yourfile.zip](https://github.com/StrGin/zeppos1.0-localstorage/releases/tag/re))
+- [下载最新发布版本](https://github.com/StrGin/zeppos1.0-localstorage/releases/tag/re)
   
 ### 初始化
 
