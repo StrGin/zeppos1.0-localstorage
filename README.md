@@ -1,7 +1,9 @@
 # zeppos1.0-localstorage
 `LocalStorage` is a simple local storage class for storing and retrieving data in the file system. It supports basic key-value storage and provides additional features such as setting expiration time.
 
-[查看中文文档](#README-CN)
+---
+[查看中文文档](README_zh.md)
+
 
 ### Initialization
 
