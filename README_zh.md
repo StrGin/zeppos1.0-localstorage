@@ -5,7 +5,12 @@
 `LocalStorage` 是一个简单的本地存储类，用于在文件系统中存储和检索数据。它支持基本的键值对存储，并提供了一些额外的功能，如设置过期时间。
 
 
+### 下载
 
+你可以通过以下链接下载我们的最新发布版本：
+
+- [下载最新发布版本]([https://github.com/yourusername/yourrepository/releases/latest/download/yourfile.zip](https://github.com/StrGin/zeppos1.0-localstorage/releases/tag/re))
+  
 ### 初始化
 
 首先，你需要初始化 `LocalStorage` 实例：
