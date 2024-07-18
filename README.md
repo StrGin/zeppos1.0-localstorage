@@ -4,7 +4,12 @@
 ---
 [查看中文文档](README_zh.md)
 
+### Download
 
+You can download our latest release version via the following link:
+
+- [Download Latest Release]([https://github.com/yourusername/yourrepository/releases/latest/download/yourfile.zip](https://github.com/StrGin/zeppos1.0-localstorage/releases/tag/re))
+  
 ### Initialization
 
 First, you need to initialize the `LocalStorage` instance:
