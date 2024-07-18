@@ -8,7 +8,7 @@
 
 You can access our latest releases via the following link:
 
-- [Latest Releases](https://github.com/yourusername/yourrepository/releases)
+- [Latest Releases](https://github.com/StrGin/zeppos1.0-localstorage/releases/tag/re)
   
 ### Initialization
 
